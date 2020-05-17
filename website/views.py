@@ -13,11 +13,11 @@ from textblob import TextBlob
 # logger = logging.getLogger(__name__)
 
 def twitterHero(data,size):
-    consumer_key=os.environ.get('CONSUMER_KEY')
-    consumer_secret=os.environ.get('CONSUMER_SECRET')
+    consumer_key=os.environ.get('iFbr9Dutq6HUI0j1MAdjV0klm')
+    consumer_secret=os.environ.get('XcLBu7YxFCgZF20CfOouXh2ysMU2YZOSAtk6zh6HJZ0bFBrgW2')
 
-    access_token=os.environ.get('ACCESS_TOKEN')
-    access_token_secret=os.environ.get('ACCESS_TOKEN_SECRET')
+    access_token=os.environ.get('1109145293004525568-QpzoUMP4t13r95qHZOSwUCtZqYywWM')
+    access_token_secret=os.environ.get('HD24hwb2pnMIz1OJVe3YjYRvxsNrEuUTgkHzx1C9ZML0h')
 
     auth=tweepy.OAuthHandler(consumer_key,consumer_secret)
     auth.set_access_token(access_token,access_token_secret)
