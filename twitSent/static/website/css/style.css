@@ -2,9 +2,6 @@
   float:left;
 }
 .parent {
-  /*display: flex;
-  flex-direction: column;
-  justify-content: center;*/
   transform: translateY(100%);
 }
 .fullscreen-bg {
@@ -50,7 +47,7 @@
 }
 
 .alert {
-  padding:5px !important;
+  padding:4px !important;
 }
 
 .github-fork-ribbon.right-bottom:before {
