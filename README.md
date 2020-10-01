@@ -1,6 +1,6 @@
 # [Twitter Sentiment Analysis](https://twittersentinel.herokuapp.com/new/)
 Search for tweets and perform basic sentiment analysis.
-- - - -
+- - - - -
 # Overview
 This is a web-app made with [django](https://www.djangoproject.com/) using [tweepy](http://www.tweepy.org/) and [nltk](https://pypi.python.org/pypi/nltk/3.2.2) to analyze tweets on searched topic.
 
